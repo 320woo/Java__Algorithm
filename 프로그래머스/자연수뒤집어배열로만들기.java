@@ -1,4 +1,3 @@
-package Programmers;
 import java.util.*;
 
 class Solution {
